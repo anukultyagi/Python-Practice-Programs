@@ -17,3 +17,4 @@
  <li>Python Program for Sum of squares of first n natural numbers.</li>
  <li>Python Program for cube sum of first n natural numbers.</li>
 </ol>
+<h2>List Programs</h2>
